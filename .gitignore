@@ -1,0 +1,18 @@
+# CubeIDE编译输出
+Debug/
+Release/
+
+# CubeMX临时文件
+*.ioc.bak
+*.cproject
+*.project
+*.settings/
+.pio
+
+# 这些是编译器生成的中间文件，不用上传
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.map
